@@ -85,7 +85,7 @@ Create an admin user in your MongoDB `users` collection:
 
 **Login for Local Development:**
 
-* Username: `admin_user`
+* Username: `admin@example.com`
 * Password: `admin123`
 
 #### ⚠️ Password Hash Troubleshooting
